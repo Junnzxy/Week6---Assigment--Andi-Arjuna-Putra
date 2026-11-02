@@ -88,3 +88,4 @@ npm run build
 - **Frontend**: Tailwind CSS v4 + Vite v6
 - **Storage**: JSON flat-file (no database needed)
 - **Icons**: Lucide Icons
+

@@ -32,3 +32,4 @@ class Office {
         return $this->storage->delete('offices', $id);
     }
 }
+

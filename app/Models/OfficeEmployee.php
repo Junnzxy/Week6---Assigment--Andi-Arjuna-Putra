@@ -49,3 +49,4 @@ class OfficeEmployee {
         return $this->storage->delete('office_employees', $id);
     }
 }
+

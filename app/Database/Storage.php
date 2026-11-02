@@ -157,3 +157,4 @@ class Storage {
         return $deleted;
     }
 }
+

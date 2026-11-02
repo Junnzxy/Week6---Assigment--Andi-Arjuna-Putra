@@ -31,3 +31,4 @@ class Employee {
         return $this->storage->delete('employees', $id);
     }
 }
+
